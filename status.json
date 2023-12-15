@@ -93,7 +93,8 @@
             "logo":"5NVLPzn",
             "des":"HD Primary"
           }
-        }
+        },
+        "live_path": "https://appsjsondata.s3.amazonaws.com/footballappjson.json"
       
     }
   }
