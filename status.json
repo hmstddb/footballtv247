@@ -1,21 +1,13 @@
 [
   {
-    "com.football.live.tv.hd": {
+    "com.asian.cup.live.tv": {
       "ads_list": [],
       "am_in": "",
       "interval": 60000,
-      "is_id": ""
+      "is_id": "",
+      "football_type": 3
     },
-    "worldcup.women": {
-      "ads_list": ["is"],
-      
-      "am_in": "",
-
-      "interval": 45000,
-
-      "is_id": "1b3af1d85"
-    },
-    "com.women.worldcup": {
+    "com.women.worldcup.zzz": {
       "ads_list": ["is"],
       "am_in": "",
       "interval": 45000,
