@@ -5,8 +5,8 @@
       "am_in": "",
       "interval": 60000,
       "is_id": "",
-      "channel_url": "asian2023tv/in",
-      "match_update_url": "asian2023tv/match",
+      "channel_url": "data/asian2023tv/in",
+      "match_update_url": "data/asian2023tv/match",
       "football_type": 3
     },
     "com.women.worldcup.zzz": {
