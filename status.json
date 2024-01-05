@@ -1,5 +1,14 @@
 [
   {
+    "com.africa.cup.live.tv": {
+      "ads_list": [],
+      "am_in": "",
+      "interval": 60000,
+      "is_id": "",
+      "channel_url": "data/asian2023tv/in",
+      "match_update_url": "data/asian2023tv/match",
+      "football_type": 3
+    },
     "com.asian.cup.live.tv": {
       "ads_list": [],
       "am_in": "",
