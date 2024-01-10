@@ -1,20 +1,20 @@
 {
   "adsApp": [
     {
-      "icon": "https://raw.githubusercontent.com/hmstudiodb/footballlivetv/master/ad/icon.png",
-      "cover": "https://raw.githubusercontent.com/hmstudiodb/footballlivetv/master/ad/graphic.png",
-      "appName": "Women World Cup 2023 Live",
-      "description": "Watch 2023 football Women's World Cup live online free on TV. Latest update for the standing, Lineups, Squad and much more from the world of football",
-      "package": "com.women.worldcup",
+      "icon": "https://raw.githubusercontent.com/hmstddb/footballtv247/master/ad/icon.png",
+      "cover": "https://raw.githubusercontent.com/hmstddb/footballtv247/master/ad/graphic.png",
+      "appName": "Africa Cup 2023 Live HD",
+      "description": "Watch 2023 football Africa Cup live online free on TV. Latest update for the standing, Lineups, Squad and much more from the world of football",
+      "package": "com.africa.cup.live.tv",
       "link": "",
       "actionText": "VISIT APP",
       "type": "app"
     },{
-      "icon": "https://raw.githubusercontent.com/hmstudiodb/footballlivetv/master/ad/icon1.png",
-      "cover": "https://raw.githubusercontent.com/hmstudiodb/footballlivetv/master/ad/graphic1.png",
-      "appName": "Women's World Cup 2023",
+      "icon": "https://raw.githubusercontent.com/hmstddb/footballtv247/master/ad/icon1.png",
+      "cover": "https://raw.githubusercontent.com/hmstddb/footballtv247/master/ad/graphic1.png",
+      "appName": "Asian Cup 2023",
       "description": "Latest update for the standing, Lineups, Squad, Yellow and red cards, Field formations, Match statistics, Top-scorer, City and stadium information",
-      "package": "worldcup.women",
+      "package": "com.asian.cup",
       "link": "",
       "actionText": "VISIT APP",
       "type": "app"
