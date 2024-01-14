@@ -32,7 +32,7 @@
       "am_in": "ca-app-pub-1699387407587127/2507922842",
       "app_id": "ca-app-pub-1699387407587127~3821004516",
 
-      "interval": 60000,
+      "interval": 45000,
       "is_id": "",
       "channel_url": "data/asian2023tv/in",
       "match_update_url": "data/asian2023tv/match",
