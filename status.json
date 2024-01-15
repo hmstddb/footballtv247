@@ -1,12 +1,12 @@
 [
   {
     "com.africa.cup": {
-      "ads_list": ["am"],
+      "ads_list": ["am", "is"],
       "am_in": "ca-app-pub-1699387407587127/1621436336",
       "app_id": "ca-app-pub-1699387407587127~6163316574",
 
       "interval": 45000,
-      "is_id": ""
+      "is_id": "1d34327a5"
     },
      "com.asian.cup": {
       "ads_list": ["am"],
