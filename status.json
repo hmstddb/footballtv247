@@ -6,7 +6,8 @@
       "app_id": "ca-app-pub-1699387407587127~6163316574",
 
       "interval": 45000,
-      "is_id": "1d34327a5"
+      "is_id": "1d34327a5",
+      "get_channel_via_link": true
     },
      "com.asian.cup": {
       "ads_list": ["am", "is"],
@@ -14,7 +15,8 @@
       "app_id": "ca-app-pub-1699387407587127~2826706794",
 
       "interval": 45000,
-      "is_id": "1d39614ad"
+      "is_id": "1d39614ad",
+      "get_channel_via_link": true
     },
     "com.africa.cup.live.tv": {
       "ads_list": ["am", "is"],
