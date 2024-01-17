@@ -7,7 +7,8 @@
 
       "interval": 45000,
       "is_id": "1d34327a5",
-      "get_channel_via_link": true
+      "get_channel_via_link": true,
+      "stats_url": "data/africa2023/sta"
     },
      "com.asian.cup": {
       "ads_list": ["am", "is"],
