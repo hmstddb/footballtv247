@@ -2,8 +2,8 @@
   {
     "com.africa.cup": {
       "ads_list": ["am", "is"],
-      "am_in": "",
-      "app_id": "",
+      "am_in": "ca-app-pub-4576769423328380/6120128126",
+      "app_id": "ca-app-pub-4576769423328380~1061837597",
 
       "interval": 45000,
       "is_id": "1d34327a5",
@@ -11,7 +11,7 @@
       "stats_url": "data/africa2023/sta"
     },
      "com.asian.cup": {
-      "ads_list": ["am", "is"],
+      "ads_list": ["is"],
       "am_in": "",
       "app_id": "",
 
@@ -20,7 +20,7 @@
       "get_channel_via_link": true
     },
     "com.africa.cup.live.tv": {
-      "ads_list": ["am", "is"],
+      "ads_list": ["is"],
       "am_in": "",
       "app_id": "",
 
@@ -31,7 +31,7 @@
       "football_type": 3
     },
     "com.asian.cup.live.tv": {
-      "ads_list": ["am", "is"],
+      "ads_list": ["is"],
       "am_in": "",
       "app_id": "",
 
