@@ -2,8 +2,8 @@
   {
     "com.africa.cup": {
       "ads_list": ["am", "is"],
-      "am_in": "ca-app-pub-1699387407587127/1621436336",
-      "app_id": "ca-app-pub-1699387407587127~6163316574",
+      "am_in": "",
+      "app_id": "",
 
       "interval": 45000,
       "is_id": "1d34327a5",
@@ -12,8 +12,8 @@
     },
      "com.asian.cup": {
       "ads_list": ["am", "is"],
-      "am_in": "ca-app-pub-1699387407587127/9635603821",
-      "app_id": "ca-app-pub-1699387407587127~2826706794",
+      "am_in": "",
+      "app_id": "",
 
       "interval": 45000,
       "is_id": "1d39614ad",
@@ -21,8 +21,8 @@
     },
     "com.africa.cup.live.tv": {
       "ads_list": ["am", "is"],
-      "am_in": "ca-app-pub-1699387407587127/5644441821",
-      "app_id": "ca-app-pub-1699387407587127~3082637914",
+      "am_in": "",
+      "app_id": "",
 
       "interval": 45000,
       "is_id": "1d395a19d",
@@ -32,8 +32,8 @@
     },
     "com.asian.cup.live.tv": {
       "ads_list": ["am", "is"],
-      "am_in": "ca-app-pub-1699387407587127/2507922842",
-      "app_id": "ca-app-pub-1699387407587127~3821004516",
+      "am_in": "",
+      "app_id": "",
 
       "interval": 45000,
       "is_id": "1d39687bd",
