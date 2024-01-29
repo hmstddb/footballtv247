@@ -12,9 +12,9 @@
     },{
       "icon": "https://raw.githubusercontent.com/hmstddb/footballtv247/master/ad/icon1.png",
       "cover": "https://raw.githubusercontent.com/hmstddb/footballtv247/master/ad/graphic1.png",
-      "appName": "Asian Cup 2023",
+      "appName": "Africa Cup 2023",
       "description": "Latest update for the standing, Lineups, Squad, Yellow and red cards, Field formations, Match statistics, Top-scorer, City and stadium information",
-      "package": "com.asian.cup",
+      "package": "com.africa.cup",
       "link": "",
       "actionText": "VISIT APP",
       "type": "app"
