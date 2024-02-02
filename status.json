@@ -12,9 +12,9 @@
       "live_display_duration": 90
     },
      "com.asian.cup": {
-      "ads_list": ["is"],
-      "am_in": "",
-      "app_id": "",
+      "ads_list": ["am", "is"],
+      "am_in": "ca-app-pub-1699387407587127/9635603821",
+      "app_id": "ca-app-pub-1699387407587127~2826706794",
 
       "interval": 45000,
       "is_id": "1d39614ad",
@@ -33,9 +33,9 @@
       "football_type": 3
     },
     "com.asian.cup.live.tv": {
-      "ads_list": ["is"],
-      "am_in": "",
-      "app_id": "",
+      "ads_list": ["am", "is"],
+      "am_in": "ca-app-pub-1699387407587127/2507922842",
+      "app_id": "ca-app-pub-1699387407587127~3821004516",
 
       "interval": 45000,
       "is_id": "1d39687bd",
