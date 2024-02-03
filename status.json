@@ -9,17 +9,17 @@
       "is_id": "1d34327a5",
       "get_channel_via_link": true,
       "stats_url": "data/africa2023/st",
-      "live_display_duration": 90
+      "live_display_duration": 120
     },
      "com.asian.cup": {
       "ads_list": ["am", "is"],
-      "am_in": "ca-app-pub-1699387407587127/9635603821",
-      "app_id": "ca-app-pub-1699387407587127~2826706794",
+      "am_in": "ca-app-pub-8330030365142195/3947332294",
+      "app_id": "ca-app-pub-8330030365142195~6242909870",
 
       "interval": 45000,
       "is_id": "1d39614ad",
       "get_channel_via_link": true,
-      "live_display_duration": 90
+      "live_display_duration": 120
     },
     "com.africa.cup.live.tv": {
       "ads_list": ["is"],
@@ -34,8 +34,8 @@
     },
     "com.asian.cup.live.tv": {
       "ads_list": ["am", "is"],
-      "am_in": "ca-app-pub-1699387407587127/2507922842",
-      "app_id": "ca-app-pub-1699387407587127~3821004516",
+      "am_in": "ca-app-pub-8330030365142195/2861481330",
+      "app_id": "ca-app-pub-8330030365142195~7802816824",
 
       "interval": 45000,
       "is_id": "1d39687bd",
