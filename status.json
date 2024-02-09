@@ -43,6 +43,16 @@
       "match_update_url": "data/asian2023tv/match",
       "football_type": 3
     },
+    "football.live.tv": {
+      "ads_list": ["am"],
+      "am_in": "ca-app-pub-3940256099942544/1033173712",
+      "app_id": "",
+
+      "interval": 45000,
+      "is_id": "",
+      "lurl": "https://sportsliveleague.com/deep_tech/app_deep1/info_details-v10.php?authapi=footsha",
+      "football_type": 0
+    },
     "com.asian.cup.live.tv": {
       "ads_list": ["am", "is"],
       "am_in": "ca-app-pub-8330030365142195/2861481330",
