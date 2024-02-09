@@ -45,7 +45,7 @@
     },
     "football.live.tv": {
       "ads_list": ["am"],
-      "am_in": "ca-app-pub-3940256099942544/1033173712",
+      "am_in": "",
       "app_id": "",
 
       "interval": 45000,
