@@ -13,8 +13,8 @@
     },
     "com.africa.cup": {
       "ads_list": ["am", "is"],
-      "am_in": "ca-app-pub-3946761273676296/9933994448",
-      "app_id": "ca-app-pub-3946761273676296~8395064950",
+      "am_in": "ca-app-pub-4855033772114653/9321844258",
+      "app_id": "ca-app-pub-4855033772114653~8037478909",
 
       "interval": 45000,
       "is_id": "1d34327a5",
@@ -33,9 +33,9 @@
       "live_display_duration": 120
     },
     "com.africa.cup.live.tv": {
-      "ads_list": ["is"],
-      "am_in": "",
-      "app_id": "",
+      "ads_list": ["am", "is"],
+      "am_in": "ca-app-pub-4855033772114653/2241430589",
+      "app_id": "ca-app-pub-4855033772114653~5916364983",
 
       "interval": 45000,
       "is_id": "1d395a19d",
