@@ -1,9 +1,9 @@
 [
   {
-    "com.africa.cup.ne": {
+    "com.africa.cup": {
       "ads_list": ["am", "is"],
-      "am_in": "ca-app-pub-4576769423328380/6120128126",
-      "app_id": "ca-app-pub-4576769423328380~1061837597",
+      "am_in": "ca-app-pub-8330030365142195/7183067391",
+      "app_id": "ca-app-pub-8330030365142195~1136533795",
 
       "interval": 45000,
       "is_id": "1d34327a5",
@@ -11,7 +11,7 @@
       "stats_url": "data/africa2023/st",
       "live_display_duration": 120
     },
-    "com.africa.cup": {
+    "com.africa.cup.ne": {
       "ads_list": ["am", "is"],
       "am_in": "ca-app-pub-4855033772114653/9321844258",
       "app_id": "ca-app-pub-4855033772114653~8037478909",
