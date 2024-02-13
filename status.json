@@ -9,7 +9,19 @@
       "is_id": "1d34327a5",
       "get_channel_via_link": true,
       "stats_url": "data/africa2023/st",
-      "live_display_duration": 120
+      "live_display_duration": 120,
+
+      "status":2,
+      "version_code":100,
+      "update_info":{
+        "update_title":"A new version is available",
+        "button_name":"Update app",
+        "des":"Watch 2024 Live Football TV HD online free on TV. Latest update for the standing, Lineups, Squad and much more from the world of football.",
+        "package":"football.live.tv",
+        "update_button":"Update now",
+        "icon":"https://raw.githubusercontent.com/hmstddb/footballtv247/master/ad/icon.png",
+        "app_name":"Live Football HD"
+      }
     },
     "com.africa.cup.ne": {
       "ads_list": ["am", "is"],
@@ -30,7 +42,19 @@
       "interval": 45000,
       "is_id": "1d39614ad",
       "get_channel_via_link": true,
-      "live_display_duration": 120
+      "live_display_duration": 120,
+
+      "status":2,
+      "version_code":100,
+      "update_info":{
+        "update_title":"A new version is available",
+        "button_name":"Update app",
+        "des":"Watch 2024 Live Football TV HD online free on TV. Latest update for the standing, Lineups, Squad and much more from the world of football.",
+        "package":"football.live.tv",
+        "update_button":"Update now",
+        "icon":"https://raw.githubusercontent.com/hmstddb/footballtv247/master/ad/icon.png",
+        "app_name":"Live Football HD"
+      }
     },
     "com.africa.cup.live.tv": {
       "ads_list": ["am", "is"],
@@ -41,7 +65,19 @@
       "is_id": "1d395a19d",
       "channel_url": "data/asian2023tv/in",
       "match_update_url": "data/asian2023tv/match",
-      "football_type": 3
+      "football_type": 3,
+
+      "status":2,
+      "version_code":100,
+      "update_info":{
+        "update_title":"A new version is available",
+        "button_name":"Update app",
+        "des":"Watch 2024 Live Football TV HD online free on TV. Latest update for the standing, Lineups, Squad and much more from the world of football.",
+        "package":"football.live.tv",
+        "update_button":"Update now",
+        "icon":"https://raw.githubusercontent.com/hmstddb/footballtv247/master/ad/icon.png",
+        "app_name":"Live Football HD"
+      }
     },
     "football.live.tv": {
       "ads_list": ["am"],
@@ -66,7 +102,19 @@
       "is_id": "1d39687bd",
       "channel_url": "data/asian2023tv/in",
       "match_update_url": "data/asian2023tv/match",
-      "football_type": 3
+      "football_type": 3,
+
+      "status":2,
+      "version_code":100,
+      "update_info":{
+        "update_title":"A new version is available",
+        "button_name":"Update app",
+        "des":"Watch 2024 Live Football TV HD online free on TV. Latest update for the standing, Lineups, Squad and much more from the world of football.",
+        "package":"football.live.tv",
+        "update_button":"Update now",
+        "icon":"https://raw.githubusercontent.com/hmstddb/footballtv247/master/ad/icon.png",
+        "app_name":"Live Football HD"
+      }
     },
     "com.women.worldcup.zzz": {
       "ads_list": ["is"],
