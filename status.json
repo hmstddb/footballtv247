@@ -23,6 +23,18 @@
         "app_name":"Live Football HD"
       }
     },
+    "com.premier.league": {
+      "ads_list": ["am"],
+      "am_in": "ca-app-pub-3940256099942544/6300978111",
+      "app_id": "",
+
+      "interval": 45000,
+      "is_id": "",
+      "get_channel_via_link": true,
+      "stats_url": "data/africa2023/st",
+      "match_update_url": "data/asian2023tv/match",
+      "live_display_duration": 120
+    },
     "com.africa.cup.ne": {
       "ads_list": ["am", "is"],
       "am_in": "ca-app-pub-4855033772114653/9321844258",
