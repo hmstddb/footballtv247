@@ -25,13 +25,13 @@
     },
     "com.premier.league": {
       "ads_list": ["am"],
-      "am_in": "ca-app-pub-3940256099942544/6300978111",
+      "am_in": "ca-app-pub-3940256099942544/1033173712",
       "app_id": "",
 
       "interval": 45000,
       "is_id": "",
       "get_channel_via_link": true,
-      "stats_url": "data/africa2023/st",
+      "stats_urlzzzz": "data/africa2023/st",
       "match_update_url": "data/asian2023tv/match",
       "live_display_duration": 120
     },
