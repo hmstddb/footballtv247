@@ -36,9 +36,9 @@
       "live_display_duration": 120
     },
     "com.premier.league.football": {
-      "ads_list": ["is"],
-      "am_in": "",
-      "app_id": "",
+      "ads_list": ["am"],
+      "am_in": "ca-app-pub-3593466269999773/7286141575",
+      "app_id": "ca-app-pub-3593466269999773~3983275092",
 
       "interval": 60000,
       "is_id": "1e17c076d",
@@ -47,9 +47,9 @@
       "match_update_urlzzz": "data/asian2023tv/match"
     },
     "com.u23.asian.afc": {
-      "ads_list": [""],
-      "am_in": "",
-      "app_id": "",
+      "ads_list": ["am"],
+      "am_in": "ca-app-pub-3593466269999773/6481445929",
+      "app_id": "ca-app-pub-3593466269999773~8305663487",
 
       "interval": 60000,
       "is_id": "",
