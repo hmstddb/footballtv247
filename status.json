@@ -57,6 +57,17 @@
       "stats_urlzzzz": "data/africa2023/st",
       "match_update_urlzzz": "data/asian2023tv/match"
     },
+    "com.euro": {
+      "ads_list": ["am"],
+      "am_in": "ca-app-pub-3940256099942544/1033173712",
+      "app_id": "ca-app-pub-3940256099942544~3347511713",
+
+      "interval": 60000,
+      "is_id": "",
+      "get_channel_via_link": true,
+      "stats_urlzzzz": "data/africa2023/st",
+      "match_update_urlzzz": "data/asian2023tv/match"
+    },
     "com.africa.cup.ne": {
       "ads_list": ["am", "is"],
       "am_in": "ca-app-pub-4855033772114653/9321844258",
