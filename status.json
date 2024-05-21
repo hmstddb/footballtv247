@@ -24,14 +24,24 @@
       }
     },
     "com.euro.live": {
+      "ads_list": [""],
+      "am_in": "",
+      "app_id": "",
+
+      "interval": 45000,
+      "is_id": "",
+      "channel_url": "data/euro2024/in",
+      "match_update_urlzzz": "data/euro2024/match"
+    },
+    "com.copa.america": {
       "ads_list": ["am"],
       "am_in": "ca-app-pub-3940256099942544/1033173712",
       "app_id": "ca-app-pub-3940256099942544~3347511713",
 
       "interval": 45000,
       "is_id": "",
-      "channel_url": "data/euro2024/in",
-      "match_update_urlzzz": "data/euro2024/match"
+      "channel_url": "data/copa2024/in",
+      "match_update_urlzzz": "data/copa2024/match"
     },
     "com.premier.league": {
       "ads_list": [""],
