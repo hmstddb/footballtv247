@@ -40,6 +40,7 @@
 
       "interval": 45000,
       "is_id": "",
+      "get_channel_via_link": true,
       "channel_url": "data/copa2024/in",
       "standing_url": "data/copa2024/sta",
       "match_update_urlzzz": "data/copa2024/match"
