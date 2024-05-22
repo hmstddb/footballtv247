@@ -34,9 +34,9 @@
       "match_update_urlzzz": "data/euro2024/match"
     },
     "com.copa.america": {
-      "ads_list": ["am"],
-      "am_in": "ca-app-pub-3940256099942544/1033173712",
-      "app_id": "ca-app-pub-3940256099942544~3347511713",
+      "ads_list": [""],
+      "am_in": "",
+      "app_id": "",
 
       "interval": 45000,
       "is_id": "",
