@@ -43,6 +43,7 @@
       "get_channel_via_link": true,
       "channel_url": "data/copa2024/in",
       "standing_url": "data/copa2024/sta",
+      "bracket_url": "data/copa2024/bracket/1.jpg",
       "match_update_urlzzz": "data/copa2024/match"
     },
     "com.copa.america.live": {
@@ -55,7 +56,6 @@
       "get_channel_via_link": true,
       "channel_url": "data/copa2024/in",
       "standing_url": "data/copa2024/sta",
-      "bracket_url": "data/copa2024/bracket/1.jpg",
       "match_update_urlzzz": "data/copa2024/match"
     },
     "com.premier.league": {
